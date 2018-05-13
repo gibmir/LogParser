@@ -1,5 +1,4 @@
 # LogParser
-<<<<<<< HEAD
 ##Logs are:
  * Written inputs "input from (filterMember: 4426 ..."
   And outputs "exit with (filterMember: 4426 ..."
@@ -10,4 +9,3 @@
  *   - received the input to the log file path,
  * ####  Output to the console summary for each method that hit the log:
     * Method name, minimum time, maximum time, average time, number of calls, ID of the longest call
->>>>>>> LogParser/master
